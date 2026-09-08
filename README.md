@@ -1,6 +1,13 @@
 # CortexLab · 数字员工大脑架构实验室
 
-> 一个交互式 3D 可视化项目，用人体隐喻展示 AgentTeams SDK 的架构、大脑适配流程和可扩展设计。
+> 大脑能力的可视化、编排与分发平台。用人体隐喻展示 AgentTeams SDK 的架构、大脑适配流程和可扩展设计。
+
+## 服务的开源项目
+
+CortexLab 服务于 [AgentTeams](https://github.com/agentscope-ai/AgentTeams) —— 一个开源的多 Agent 协作运行时平台，采用 Manager-Workers 架构，通过 Matrix 房间实现人在环路的透明任务协作。
+
+- **AgentTeams GitHub**：https://github.com/agentscope-ai/AgentTeams
+- **CortexLab 的角色**：AgentTeams 生态的大脑架构可视化与实验平台，让开发者看清大脑如何被创建、如何融入数字员工、如何被多宿主接入
 
 ## 项目定位
 
@@ -10,6 +17,7 @@
 - SDK 适配五步流程（从继承 BaseBrain 到 Docker 上线）
 - 大脑零件库拖拽安装（未来可扩展的插件化概念）
 - SDK 五层架构深度解析（大脑应用层 → 核心层 → 运行时 → 适配层 → 平台层）
+- 产品蓝图与未来发展（多宿主接入、大脑设计器、大脑海市场）
 
 ## 三大视图
 

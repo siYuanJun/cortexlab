@@ -150,7 +150,7 @@ export default function BlueprintView() {
             CortexLab · 大脑能力的<span style={{ color: 'var(--ks-kinpaku)' }}>可视化、编排与分发平台</span>
           </h1>
           <p className="text-sm leading-relaxed max-w-3xl" style={{ color: 'var(--ks-muted)' }}>
-            大脑是独立的专业能力单元，不绑定单一宿主。数字员工是最完整的宿主（提供完整人体），
+            服务于 <a href="https://github.com/agentscope-ai/AgentTeams" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--ks-kinpaku)', textDecoration: 'underline' }}>AgentTeams</a> 开源多 Agent 协作平台。大脑是独立的专业能力单元，不绑定单一宿主。数字员工是最完整的宿主（提供完整人体），
             但同一个大脑也可以通过 MCP / API / SDK 被 Claude Code、CodeX、Cursor、传统应用等多种宿主接入。
             CortexLab 是大脑海的控制台——看清、理解、设计、编排、分发。
           </p>
